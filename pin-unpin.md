@@ -1,3 +1,7 @@
+- [Rust的Pin与Unpin](https://folyd.com/blog/rust-pin-unpin/)
+- [Pin UnPin 学习笔记](https://rustcc.cn/article?id=1d0a46fa-da56-40ae-bb4e-fe1b85f68751)
+
+
 0. 什么是自引用结构体  
 	safe rust 是无法创建的
 1. 异步函数 生成器函数 基本都会用自引用结构体  
